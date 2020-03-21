@@ -1,11 +1,5 @@
 ###
 
-这个项目是为了做一个适合自己的首页，加入了哈尔滨工业大学（深圳）的常用网站，所以也可以作为类似[北邮人导航](byr.wiki)的哈工深版。
-
-demo 地址: [➡️ 造作家](https://www.hitsz.top/)
-
-我的博客: [www.rhinoc.top](https://rhinoc.top/)
-
 #### feature
 [x] 根据JSON文件自动生成网页（目前支持`index.html`和`about.html`）
 [x] 支持阿里巴巴iconfont
@@ -20,7 +14,6 @@ demo 地址: [➡️ 造作家](https://www.hitsz.top/)
 
 直接运行即可。
 JSON文件和头部尾部HTML文件都在同级目录下，根据自己需要修改。
-写了一篇相关博文在我的博客里[「JSON-to-HTML」根据JSON文件信息生成静态导航网页](https://rhinoc.top/post/generator-py.html)
 
 #### 类地址栏搜索说明
 
